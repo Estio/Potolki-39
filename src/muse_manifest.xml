@@ -1,0 +1,435 @@
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" ftp_hostname="ftp://ftp.studiozo.ru" ftp_rootfolder="/public_html" exportTarget="FTP" domain="studiozo.ru" resolutions="1x" timestamp="1465761586504">
+  <folder name="css">
+    <file name="site_global.css" crc="496811307"/>
+    <file name="master_main.css" crc="4136211611" ref="reviews:contacts:index:help:reznye-natjazhnye-potolki:akcii:cvetnye-polotna:matovye-natjazhnye-potolki:mobilnyj-ofis:gljancevye-natjazhnye-potolki:montazh-potolkov:satinovye-natjazhnye-potolki:mnogourovnevye-natjazhnye-potolki:tkanevye-natjazhnye-potolki:фотопечать:obsluzhivanie"/>
+    <file name="master_catalog.css" crc="462891892" ref="reznye-natjazhnye-potolki:cvetnye-polotna:matovye-natjazhnye-potolki:gljancevye-natjazhnye-potolki:satinovye-natjazhnye-potolki:mnogourovnevye-natjazhnye-potolki:tkanevye-natjazhnye-potolki:фотопечать"/>
+    <file name="reviews.css" crc="516239983" ref="reviews"/>
+    <file name="iefonts_reviews.css" crc="4119418026" ref="reviews"/>
+    <file name="contacts.css" crc="7904704" ref="contacts"/>
+    <file name="iefonts_contacts.css" crc="3824861683" ref="contacts"/>
+    <file name="index.css" crc="4079954018" ref="index"/>
+    <file name="iefonts_index.css" crc="3926320897" ref="index"/>
+    <file name="help.css" crc="105171867" ref="help"/>
+    <file name="iefonts_help.css" crc="4113566143" ref="help"/>
+    <file name="master_______.css" crc="305513494" ref="mobilnyj-ofis:montazh-potolkov:obsluzhivanie"/>
+    <file name="reznye-natjazhnye-potolki.css" crc="255427786" ref="reznye-natjazhnye-potolki"/>
+    <file name="iefonts_reznye-natjazhnye-potolki.css" crc="416338898" ref="reznye-natjazhnye-potolki"/>
+    <file name="akcii.css" crc="3824801329" ref="akcii"/>
+    <file name="iefonts_akcii.css" crc="533025100" ref="akcii"/>
+    <file name="cvetnye-polotna.css" crc="328761973" ref="cvetnye-polotna"/>
+    <file name="iefonts_cvetnye-polotna.css" crc="514388788" ref="cvetnye-polotna"/>
+    <file name="matovye-natjazhnye-potolki.css" crc="4243341801" ref="matovye-natjazhnye-potolki"/>
+    <file name="iefonts_matovye-natjazhnye-potolki.css" crc="433715471" ref="matovye-natjazhnye-potolki"/>
+    <file name="mobilnyj-ofis.css" crc="3815888835" ref="mobilnyj-ofis"/>
+    <file name="iefonts_mobilnyj-ofis.css" crc="185543258" ref="mobilnyj-ofis"/>
+    <file name="gljancevye-natjazhnye-potolki.css" crc="4144027156" ref="gljancevye-natjazhnye-potolki"/>
+    <file name="iefonts_gljancevye-natjazhnye-potolki.css" crc="4116439371" ref="gljancevye-natjazhnye-potolki"/>
+    <file name="montazh-potolkov.css" crc="4124701197" ref="montazh-potolkov"/>
+    <file name="iefonts_montazh-potolkov.css" crc="44650777" ref="montazh-potolkov"/>
+    <file name="satinovye-natjazhnye-potolki.css" crc="4207927965" ref="satinovye-natjazhnye-potolki"/>
+    <file name="iefonts_satinovye-natjazhnye-potolki.css" crc="4191115400" ref="satinovye-natjazhnye-potolki"/>
+    <file name="mnogourovnevye-natjazhnye-potolki.css" crc="4119134220" ref="mnogourovnevye-natjazhnye-potolki"/>
+    <file name="iefonts_mnogourovnevye-natjazhnye-potolki.css" crc="3803659238" ref="mnogourovnevye-natjazhnye-potolki"/>
+    <file name="tkanevye-natjazhnye-potolki.css" crc="212015263" ref="tkanevye-natjazhnye-potolki"/>
+    <file name="iefonts_tkanevye-natjazhnye-potolki.css" crc="276138946" ref="tkanevye-natjazhnye-potolki"/>
+    <file name="__________.css" crc="4123064285" ref="фотопечать"/>
+    <file name="iefonts___________.css" crc="414143214" ref="фотопечать"/>
+    <file name="obsluzhivanie.css" crc="3995818331" ref="obsluzhivanie"/>
+    <file name="iefonts_obsluzhivanie.css" crc="4107735575" ref="obsluzhivanie"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:help:reviews:contacts:matovye-natjazhnye-potolki:gljancevye-natjazhnye-potolki:satinovye-natjazhnye-potolki:tkanevye-natjazhnye-potolki:akcii:mnogourovnevye-natjazhnye-potolki:фотопечать:reznye-natjazhnye-potolki:cvetnye-polotna:mobilnyj-ofis:montazh-potolkov:obsluzhivanie"/>
+    <file name="museutils.js" crc="3790713428" ref="index:help:reviews:contacts:matovye-natjazhnye-potolki:gljancevye-natjazhnye-potolki:satinovye-natjazhnye-potolki:tkanevye-natjazhnye-potolki:akcii:mnogourovnevye-natjazhnye-potolki:фотопечать:reznye-natjazhnye-potolki:cvetnye-polotna:mobilnyj-ofis:montazh-potolkov:obsluzhivanie"/>
+    <file name="whatinput.js" crc="84559013" ref="index:help:reviews:contacts:matovye-natjazhnye-potolki:gljancevye-natjazhnye-potolki:satinovye-natjazhnye-potolki:tkanevye-natjazhnye-potolki:akcii:mnogourovnevye-natjazhnye-potolki:фотопечать:reznye-natjazhnye-potolki:cvetnye-polotna:mobilnyj-ofis:montazh-potolkov:obsluzhivanie"/>
+    <file name="webpro.js" crc="329496574" ref="index:help:reviews:contacts:matovye-natjazhnye-potolki:gljancevye-natjazhnye-potolki:satinovye-natjazhnye-potolki:tkanevye-natjazhnye-potolki:akcii:mnogourovnevye-natjazhnye-potolki:фотопечать:reznye-natjazhnye-potolki:cvetnye-polotna:mobilnyj-ofis:montazh-potolkov:obsluzhivanie"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="index:help:reviews:contacts:matovye-natjazhnye-potolki:gljancevye-natjazhnye-potolki:satinovye-natjazhnye-potolki:tkanevye-natjazhnye-potolki:akcii:mnogourovnevye-natjazhnye-potolki:фотопечать:reznye-natjazhnye-potolki:cvetnye-polotna:mobilnyj-ofis:montazh-potolkov:obsluzhivanie"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="index:help:reviews:contacts:matovye-natjazhnye-potolki:gljancevye-natjazhnye-potolki:satinovye-natjazhnye-potolki:tkanevye-natjazhnye-potolki:akcii:mnogourovnevye-natjazhnye-potolki:фотопечать:reznye-natjazhnye-potolki:cvetnye-polotna:mobilnyj-ofis:montazh-potolkov:obsluzhivanie"/>
+    <file name="touchswipe.js" crc="497316881" ref="index:help:reviews:contacts:matovye-natjazhnye-potolki:gljancevye-natjazhnye-potolki:satinovye-natjazhnye-potolki:tkanevye-natjazhnye-potolki:akcii:mnogourovnevye-natjazhnye-potolki:фотопечать:reznye-natjazhnye-potolki:cvetnye-polotna:mobilnyj-ofis:montazh-potolkov:obsluzhivanie"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index:cvetnye-polotna"/>
+    <file name="pie.js" crc="3827607177" ref="index:reviews:help"/>
+    <file name="form_check.php" crc="3805695515" ref="index:help:reviews:contacts:matovye-natjazhnye-potolki:gljancevye-natjazhnye-potolki:satinovye-natjazhnye-potolki:tkanevye-natjazhnye-potolki:akcii:mnogourovnevye-natjazhnye-potolki:фотопечать:reznye-natjazhnye-potolki:cvetnye-polotna:mobilnyj-ofis:montazh-potolkov:obsluzhivanie"/>
+    <file name="form_throttle.php" crc="3802629389" ref="index:help:reviews:contacts:matovye-natjazhnye-potolki:gljancevye-natjazhnye-potolki:satinovye-natjazhnye-potolki:tkanevye-natjazhnye-potolki:akcii:mnogourovnevye-natjazhnye-potolki:фотопечать:reznye-natjazhnye-potolki:cvetnye-polotna:mobilnyj-ofis:montazh-potolkov:obsluzhivanie"/>
+    <file name="form_process.php" crc="54267062" ref="index:help:reviews:contacts:matovye-natjazhnye-potolki:gljancevye-natjazhnye-potolki:satinovye-natjazhnye-potolki:tkanevye-natjazhnye-potolki:akcii:mnogourovnevye-natjazhnye-potolki:фотопечать:reznye-natjazhnye-potolki:cvetnye-polotna:mobilnyj-ofis:montazh-potolkov:obsluzhivanie"/>
+    <file name="form-u5437.php" crc="425817960" ref="index:help:reviews:contacts:matovye-natjazhnye-potolki:gljancevye-natjazhnye-potolki:satinovye-natjazhnye-potolki:tkanevye-natjazhnye-potolki:akcii:mnogourovnevye-natjazhnye-potolki:фотопечать:reznye-natjazhnye-potolki:cvetnye-polotna:mobilnyj-ofis:montazh-potolkov:obsluzhivanie"/>
+    <file name="form-u4897.php" crc="4211530052" ref="index:help:reviews:contacts:matovye-natjazhnye-potolki:gljancevye-natjazhnye-potolki:satinovye-natjazhnye-potolki:tkanevye-natjazhnye-potolki:akcii:mnogourovnevye-natjazhnye-potolki:фотопечать:reznye-natjazhnye-potolki:cvetnye-polotna:mobilnyj-ofis:montazh-potolkov:obsluzhivanie"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:help:reviews:contacts:matovye-natjazhnye-potolki:gljancevye-natjazhnye-potolki:satinovye-natjazhnye-potolki:tkanevye-natjazhnye-potolki:akcii:mnogourovnevye-natjazhnye-potolki:фотопечать:reznye-natjazhnye-potolki:cvetnye-polotna:mobilnyj-ofis:montazh-potolkov:obsluzhivanie"/>
+    <file name="musewpdisclosure.js" crc="4234230767" ref="index:help:reviews:contacts:matovye-natjazhnye-potolki:gljancevye-natjazhnye-potolki:satinovye-natjazhnye-potolki:tkanevye-natjazhnye-potolki:akcii:mnogourovnevye-natjazhnye-potolki:фотопечать:reznye-natjazhnye-potolki:cvetnye-polotna:mobilnyj-ofis:montazh-potolkov:obsluzhivanie"/>
+    <file name="form-u10547.php" crc="4031858824" ref="index:help:reviews:contacts:matovye-natjazhnye-potolki:gljancevye-natjazhnye-potolki:satinovye-natjazhnye-potolki:tkanevye-natjazhnye-potolki:akcii:mnogourovnevye-natjazhnye-potolki:фотопечать:reznye-natjazhnye-potolki:cvetnye-polotna:mobilnyj-ofis:montazh-potolkov:obsluzhivanie"/>
+    <file name="jquery.musemenu.js" crc="238543590" ref="matovye-natjazhnye-potolki:gljancevye-natjazhnye-potolki:satinovye-natjazhnye-potolki:tkanevye-natjazhnye-potolki:mnogourovnevye-natjazhnye-potolki:фотопечать:reznye-natjazhnye-potolki:cvetnye-polotna:mobilnyj-ofis:montazh-potolkov:obsluzhivanie"/>
+    <file name="html5shiv.js" crc="4241844378" ref="matovye-natjazhnye-potolki:gljancevye-natjazhnye-potolki:satinovye-natjazhnye-potolki:tkanevye-natjazhnye-potolki:akcii:help:reviews:contacts:mnogourovnevye-natjazhnye-potolki:фотопечать:reznye-natjazhnye-potolki:cvetnye-polotna:mobilnyj-ofis:montazh-potolkov:obsluzhivanie"/>
+    <file name="form-u14743.php" crc="334441372" ref="help"/>
+  </folder>
+  <folder name="images">
+    <file name="5.jpg" crc="3899351638" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="1_topmap1000x364.jpg" crc="3976790711" seo="true" ref="index"/>
+    <file name="2.jpg" crc="362162307" seo="true" ref="index"/>
+    <file name="3.jpg" crc="4104953191" seo="true" ref="index"/>
+    <file name="4.jpg" crc="4037689272" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:reviews"/>
+    <file name="logolongbigcoolup.png" crc="242257091" ref="index"/>
+    <file name="freemeasurementbtn205x35.png" crc="4229734031" ref="index"/>
+    <file name="freemeasurementpressbtn205x35.png" crc="155921630" ref="index"/>
+    <file name="1383161149_close.png" crc="3847529569" seo="true" ref="index:help:reviews:contacts:matovye-natjazhnye-potolki:gljancevye-natjazhnye-potolki:satinovye-natjazhnye-potolki:tkanevye-natjazhnye-potolki:akcii:mnogourovnevye-natjazhnye-potolki:фотопечать:reznye-natjazhnye-potolki:cvetnye-polotna:mobilnyj-ofis:montazh-potolkov:obsluzhivanie"/>
+    <file name="requestcallbtn205x35.png" crc="3952967460" ref="index"/>
+    <file name="requestcallpressbtn205x35.png" crc="3940828263" ref="index"/>
+    <file name="down-arrow.png" crc="114108420" ref="index"/>
+    <file name="matt154x154label.jpg" crc="4176529477" ref="index"/>
+    <file name="gloss154x154label.jpg" crc="3772181656" ref="index"/>
+    <file name="sateen154x154label.jpg" crc="526213156" ref="index"/>
+    <file name="textile154x154label.jpg" crc="3940608321" ref="index"/>
+    <file name="photoprint154x154label.jpg" crc="393268306" ref="index"/>
+    <file name="universalbtn374x320.jpg" crc="4035644167" ref="index"/>
+    <file name="fastsetupbtn374x320.jpg" crc="4248867871" ref="index"/>
+    <file name="reliabilitybtn374x320.jpg" crc="3905393531" ref="index"/>
+    <file name="diversitybtn374x320.jpg" crc="155746898" ref="index"/>
+    <file name="whywetext400x324.jpg" crc="495620235" ref="index"/>
+    <file name="замер.png" crc="514436822" seo="true" ref="index"/>
+    <file name="гарантия качества2.png" crc="10387434" seo="true" ref="index"/>
+    <file name="whyweman300x324.jpg" crc="3993109782" ref="index"/>
+    <file name="тканевые.jpg" crc="3790006879" seo="true" ref="gljancevye-natjazhnye-potolki"/>
+    <file name="favicon.ico" crc="110969718" ref="index"/>
+    <file name="logolongbigcoolupver2.png" crc="91057275" ref="index"/>
+    <file name="u5447-17.png" crc="4246389539" ref="index:matovye-natjazhnye-potolki:gljancevye-natjazhnye-potolki:satinovye-natjazhnye-potolki:tkanevye-natjazhnye-potolki:akcii:help:reviews:contacts:mnogourovnevye-natjazhnye-potolki:фотопечать:reznye-natjazhnye-potolki:cvetnye-polotna:mobilnyj-ofis:montazh-potolkov:obsluzhivanie"/>
+    <file name="u5447-17-r.png" crc="232782155" ref="index:matovye-natjazhnye-potolki:gljancevye-natjazhnye-potolki:satinovye-natjazhnye-potolki:tkanevye-natjazhnye-potolki:akcii:help:reviews:contacts:mnogourovnevye-natjazhnye-potolki:фотопечать:reznye-natjazhnye-potolki:cvetnye-polotna:mobilnyj-ofis:montazh-potolkov:obsluzhivanie"/>
+    <file name="u5447-17-m.png" crc="232782155" ref="index:matovye-natjazhnye-potolki:gljancevye-natjazhnye-potolki:satinovye-natjazhnye-potolki:tkanevye-natjazhnye-potolki:akcii:help:reviews:contacts:mnogourovnevye-natjazhnye-potolki:фотопечать:reznye-natjazhnye-potolki:cvetnye-polotna:mobilnyj-ofis:montazh-potolkov:obsluzhivanie"/>
+    <file name="u5447-17-fs.png" crc="4246389539" ref="index:matovye-natjazhnye-potolki:gljancevye-natjazhnye-potolki:satinovye-natjazhnye-potolki:tkanevye-natjazhnye-potolki:akcii:help:reviews:contacts:mnogourovnevye-natjazhnye-potolki:фотопечать:reznye-natjazhnye-potolki:cvetnye-polotna:mobilnyj-ofis:montazh-potolkov:obsluzhivanie"/>
+    <file name="u4910-17.png" crc="4214241624" ref="index:matovye-natjazhnye-potolki:gljancevye-natjazhnye-potolki:satinovye-natjazhnye-potolki:tkanevye-natjazhnye-potolki:akcii:help:reviews:contacts:mnogourovnevye-natjazhnye-potolki:фотопечать:reznye-natjazhnye-potolki:cvetnye-polotna:mobilnyj-ofis:montazh-potolkov:obsluzhivanie"/>
+    <file name="u4910-17-r.png" crc="189768805" ref="index:matovye-natjazhnye-potolki:gljancevye-natjazhnye-potolki:satinovye-natjazhnye-potolki:tkanevye-natjazhnye-potolki:akcii:help:reviews:contacts:mnogourovnevye-natjazhnye-potolki:фотопечать:reznye-natjazhnye-potolki:cvetnye-polotna:mobilnyj-ofis:montazh-potolkov:obsluzhivanie"/>
+    <file name="u4910-17-m.png" crc="189768805" ref="index:matovye-natjazhnye-potolki:gljancevye-natjazhnye-potolki:satinovye-natjazhnye-potolki:tkanevye-natjazhnye-potolki:akcii:help:reviews:contacts:mnogourovnevye-natjazhnye-potolki:фотопечать:reznye-natjazhnye-potolki:cvetnye-polotna:mobilnyj-ofis:montazh-potolkov:obsluzhivanie"/>
+    <file name="u4910-17-fs.png" crc="4272275785" ref="index:matovye-natjazhnye-potolki:gljancevye-natjazhnye-potolki:satinovye-natjazhnye-potolki:tkanevye-natjazhnye-potolki:akcii:help:reviews:contacts:mnogourovnevye-natjazhnye-potolki:фотопечать:reznye-natjazhnye-potolki:cvetnye-polotna:mobilnyj-ofis:montazh-potolkov:obsluzhivanie"/>
+    <file name="1_topmap1000x3641000x364.jpg" crc="229290058" seo="true" ref="index"/>
+    <file name="22.jpg" crc="4142061272" seo="true" ref="index"/>
+    <file name="universaltextbtn374x320.jpg" crc="3992014763" ref="index"/>
+    <file name="fastsetuptextbtn374x320.jpg" crc="3909943006" ref="index"/>
+    <file name="reliabilitytextbtn374x320.jpg" crc="3872616703" ref="index"/>
+    <file name="diversitytextbtn374x320.jpg" crc="3778938890" ref="index"/>
+    <file name="success2.png" crc="400803285" seo="true" ref="index"/>
+    <file name="block1.png" crc="21718575" seo="true" ref="index"/>
+    <file name="block2.png" crc="536092379" seo="true" ref="index"/>
+    <file name="block3.png" crc="4219008111" seo="true" ref="index"/>
+    <file name="block4.png" crc="4130332899" seo="true" ref="index"/>
+    <file name="best-price.gif" crc="101215788" seo="true" ref="index"/>
+    <file name="карта в подарок2-u14279.png" crc="507078274" ref="index"/>
+    <file name="logo_07.jpg" crc="3906893094" seo="true" ref="index"/>
+    <file name="logo_06.jpg" crc="4218005522" seo="true" ref="index"/>
+    <file name="logo_05.jpg" crc="141526770" seo="true" ref="index"/>
+    <file name="logo_01.jpg" crc="145013330" seo="true" ref="index"/>
+    <file name="logo_02.jpg" crc="525743344" seo="true" ref="index"/>
+    <file name="logo_08.jpg" crc="4000901950" seo="true" ref="index"/>
+    <file name="logo_03.jpg" crc="4249029205" seo="true" ref="index"/>
+    <file name="logo_04.jpg" crc="398937900" seo="true" ref="index"/>
+    <file name="phone1.png" crc="33950750" seo="true" ref="index:matovye-natjazhnye-potolki:gljancevye-natjazhnye-potolki:satinovye-natjazhnye-potolki:tkanevye-natjazhnye-potolki:akcii:help:reviews:contacts:mnogourovnevye-natjazhnye-potolki:фотопечать:reznye-natjazhnye-potolki:cvetnye-polotna:mobilnyj-ofis:montazh-potolkov:obsluzhivanie"/>
+    <file name="u10563-17.png" crc="102873051" ref="index:matovye-natjazhnye-potolki:gljancevye-natjazhnye-potolki:satinovye-natjazhnye-potolki:tkanevye-natjazhnye-potolki:akcii:help:reviews:contacts:mnogourovnevye-natjazhnye-potolki:фотопечать:reznye-natjazhnye-potolki:cvetnye-polotna:mobilnyj-ofis:montazh-potolkov:obsluzhivanie"/>
+    <file name="u10563-17-r.png" crc="518944240" ref="index:matovye-natjazhnye-potolki:gljancevye-natjazhnye-potolki:satinovye-natjazhnye-potolki:tkanevye-natjazhnye-potolki:akcii:help:reviews:contacts:mnogourovnevye-natjazhnye-potolki:фотопечать:reznye-natjazhnye-potolki:cvetnye-polotna:mobilnyj-ofis:montazh-potolkov:obsluzhivanie"/>
+    <file name="u10563-17-m.png" crc="518944240" ref="index:matovye-natjazhnye-potolki:gljancevye-natjazhnye-potolki:satinovye-natjazhnye-potolki:tkanevye-natjazhnye-potolki:akcii:help:reviews:contacts:mnogourovnevye-natjazhnye-potolki:фотопечать:reznye-natjazhnye-potolki:cvetnye-polotna:mobilnyj-ofis:montazh-potolkov:obsluzhivanie"/>
+    <file name="u10563-17-fs.png" crc="4126830282" ref="index:matovye-natjazhnye-potolki:gljancevye-natjazhnye-potolki:satinovye-natjazhnye-potolki:tkanevye-natjazhnye-potolki:akcii:help:reviews:contacts:mnogourovnevye-natjazhnye-potolki:фотопечать:reznye-natjazhnye-potolki:cvetnye-polotna:mobilnyj-ofis:montazh-potolkov:obsluzhivanie"/>
+    <file name="152-crop-u11846.jpg" crc="3987625617" ref="matovye-natjazhnye-potolki"/>
+    <file name="153-crop-u11876.jpg" crc="531647324" ref="matovye-natjazhnye-potolki"/>
+    <file name="154-crop-u11893.jpg" crc="444341482" ref="matovye-natjazhnye-potolki"/>
+    <file name="155-crop-u11903.jpg" crc="4258451768" ref="matovye-natjazhnye-potolki"/>
+    <file name="156-crop-u11919.jpg" crc="194571420" ref="matovye-natjazhnye-potolki"/>
+    <file name="157-crop-u11927.jpg" crc="200378514" ref="matovye-natjazhnye-potolki"/>
+    <file name="158-u11934.png" crc="4206085319" ref="matovye-natjazhnye-potolki"/>
+    <file name="159-crop-u11955.jpg" crc="207687927" ref="matovye-natjazhnye-potolki"/>
+    <file name="160-crop-u11963.jpg" crc="380899357" ref="matovye-natjazhnye-potolki"/>
+    <file name="161-crop-u11970.jpg" crc="273881194" ref="matovye-natjazhnye-potolki"/>
+    <file name="165-crop-u11991.jpg" crc="4118820683" ref="matovye-natjazhnye-potolki"/>
+    <file name="162-crop-u11999.jpg" crc="96365923" ref="matovye-natjazhnye-potolki"/>
+    <file name="163-crop-u12006.jpg" crc="270363320" ref="matovye-natjazhnye-potolki"/>
+    <file name="164-crop-u12013.jpg" crc="3845385531" ref="matovye-natjazhnye-potolki"/>
+    <file name="165-crop-u12031.jpg" crc="4008305275" ref="matovye-natjazhnye-potolki"/>
+    <file name="166-crop-u12041.jpg" crc="130309031" ref="matovye-natjazhnye-potolki"/>
+    <file name="167-crop-u12057.jpg" crc="382388956" ref="matovye-natjazhnye-potolki"/>
+    <file name="169-crop-u12072.jpg" crc="300830578" ref="matovye-natjazhnye-potolki"/>
+    <file name="170-crop-u12079.jpg" crc="411381413" ref="matovye-natjazhnye-potolki"/>
+    <file name="168-crop-u12065.jpg" crc="470048689" ref="matovye-natjazhnye-potolki"/>
+    <file name="171-crop-u12108.jpg" crc="520983389" ref="matovye-natjazhnye-potolki"/>
+    <file name="172-crop-u12100.jpg" crc="510453626" ref="matovye-natjazhnye-potolki"/>
+    <file name="173-crop-u12129.jpg" crc="199907051" ref="matovye-natjazhnye-potolki"/>
+    <file name="174-crop-u12137.jpg" crc="270249545" ref="matovye-natjazhnye-potolki"/>
+    <file name="175-crop-u12144.jpg" crc="464656735" ref="matovye-natjazhnye-potolki"/>
+    <file name="176-crop-u12151.jpg" crc="3861794576" ref="matovye-natjazhnye-potolki"/>
+    <file name="183-crop-u12175.jpg" crc="4101403412" ref="matovye-natjazhnye-potolki"/>
+    <file name="184-crop-u12183.jpg" crc="4073276521" ref="matovye-natjazhnye-potolki"/>
+    <file name="181-crop-u12190.jpg" crc="264400364" ref="matovye-natjazhnye-potolki"/>
+    <file name="182-crop-u12197.jpg" crc="3945392430" ref="matovye-natjazhnye-potolki"/>
+    <file name="40-crop-u12242.jpg" crc="3957518497" ref="gljancevye-natjazhnye-potolki"/>
+    <file name="41-crop-u12255.jpg" crc="449318952" ref="gljancevye-natjazhnye-potolki"/>
+    <file name="43-crop-u12288.jpg" crc="298176969" ref="gljancevye-natjazhnye-potolki"/>
+    <file name="44-crop-u12301.jpg" crc="283603671" ref="gljancevye-natjazhnye-potolki"/>
+    <file name="45-crop-u12314.jpg" crc="371002866" ref="gljancevye-natjazhnye-potolki"/>
+    <file name="47-crop-u12327.jpg" crc="226415009" ref="gljancevye-natjazhnye-potolki"/>
+    <file name="48-crop-u12345.jpg" crc="4130917272" ref="gljancevye-natjazhnye-potolki"/>
+    <file name="49-crop-u12352.jpg" crc="4047294615" ref="gljancevye-natjazhnye-potolki"/>
+    <file name="50-crop-u12387.jpg" crc="4240617441" ref="gljancevye-natjazhnye-potolki"/>
+    <file name="51-crop-u12400.jpg" crc="4169868991" ref="gljancevye-natjazhnye-potolki"/>
+    <file name="52-crop-u12413.jpg" crc="375753034" ref="gljancevye-natjazhnye-potolki"/>
+    <file name="53-crop-u12426.jpg" crc="72306493" ref="gljancevye-natjazhnye-potolki"/>
+    <file name="54-crop-u12439.jpg" crc="3834001345" ref="gljancevye-natjazhnye-potolki"/>
+    <file name="55-crop-u12452.jpg" crc="248130858" ref="gljancevye-natjazhnye-potolki"/>
+    <file name="56-crop-u12465.jpg" crc="3865170363" ref="gljancevye-natjazhnye-potolki"/>
+    <file name="57-crop-u12478.jpg" crc="219805552" ref="gljancevye-natjazhnye-potolki"/>
+    <file name="58-crop-u12491.jpg" crc="346128862" ref="gljancevye-natjazhnye-potolki"/>
+    <file name="59-crop-u12504.jpg" crc="4276889577" ref="gljancevye-natjazhnye-potolki"/>
+    <file name="60-crop-u12517.jpg" crc="4055333301" ref="gljancevye-natjazhnye-potolki"/>
+    <file name="1-crop-u12556.jpg" crc="287411651" ref="satinovye-natjazhnye-potolki"/>
+    <file name="3-crop-u12548.jpg" crc="4193530135" ref="satinovye-natjazhnye-potolki"/>
+    <file name="2-crop-u12563.jpg" crc="4068868851" ref="satinovye-natjazhnye-potolki"/>
+    <file name="4-crop-u12591.jpg" crc="3854288975" ref="satinovye-natjazhnye-potolki"/>
+    <file name="5-crop-u12607.jpg" crc="133243035" ref="satinovye-natjazhnye-potolki"/>
+    <file name="6-crop-u12623.jpg" crc="3914009684" ref="satinovye-natjazhnye-potolki"/>
+    <file name="7-crop-u12639.jpg" crc="4270988438" ref="satinovye-natjazhnye-potolki"/>
+    <file name="8-crop-u12655.jpg" crc="172337929" ref="satinovye-natjazhnye-potolki"/>
+    <file name="9-crop-u12668.jpg" crc="228665968" ref="satinovye-natjazhnye-potolki"/>
+    <file name="10-crop-u12684.jpg" crc="3863316325" ref="satinovye-natjazhnye-potolki"/>
+    <file name="11-crop-u12697.jpg" crc="3987928951" ref="satinovye-natjazhnye-potolki"/>
+    <file name="12-crop-u12705.jpg" crc="236784098" ref="satinovye-natjazhnye-potolki"/>
+    <file name="1-crop-u12831.jpg" crc="158346715" ref="tkanevye-natjazhnye-potolki"/>
+    <file name="2-crop-u12839.jpg" crc="133243035" ref="tkanevye-natjazhnye-potolki"/>
+    <file name="3-crop-u12846.jpg" crc="4265016242" ref="tkanevye-natjazhnye-potolki"/>
+    <file name="5-crop-u12870.jpg" crc="4106832956" ref="tkanevye-natjazhnye-potolki"/>
+    <file name="4-crop-u12878.jpg" crc="4158910051" ref="tkanevye-natjazhnye-potolki"/>
+    <file name="7-crop-u12893.jpg" crc="3914295368" ref="tkanevye-natjazhnye-potolki"/>
+    <file name="6-crop-u12901.jpg" crc="50002080" ref="tkanevye-natjazhnye-potolki"/>
+    <file name="8-crop-u12916.jpg" crc="81876741" ref="tkanevye-natjazhnye-potolki"/>
+    <file name="9-crop-u12924.jpg" crc="474510257" ref="tkanevye-natjazhnye-potolki"/>
+    <file name="12-crop-u12939.jpg" crc="32017491" ref="tkanevye-natjazhnye-potolki"/>
+    <file name="13-crop-u12947.jpg" crc="5130967" ref="tkanevye-natjazhnye-potolki"/>
+    <file name="15-crop-u12965.jpg" crc="471600165" ref="tkanevye-natjazhnye-potolki"/>
+    <file name="14-crop-u12973.jpg" crc="237455922" ref="tkanevye-natjazhnye-potolki"/>
+    <file name="17-crop-u12991.jpg" crc="16874284" ref="tkanevye-natjazhnye-potolki"/>
+    <file name="16-crop-u12999.jpg" crc="91314126" ref="tkanevye-natjazhnye-potolki"/>
+    <file name="18-crop-u13014.jpg" crc="110891754" ref="tkanevye-natjazhnye-potolki"/>
+    <file name="19-crop-u13022.jpg" crc="174413977" ref="tkanevye-natjazhnye-potolki"/>
+    <file name="20-crop-u13029.jpg" crc="3960729607" ref="tkanevye-natjazhnye-potolki"/>
+    <file name="fornewclients2.jpg" crc="4164589725" seo="true" ref="akcii"/>
+    <file name="sale10.jpg" crc="308447433" seo="true" ref="akcii"/>
+    <file name="forallclients.jpg" crc="219447837" seo="true" ref="akcii"/>
+    <file name="askandanswers.jpg" crc="3949183417" seo="true" ref="help"/>
+    <file name="53.jpg" crc="261584633" seo="true" ref="help"/>
+    <file name="montazh-i-ustanovka-potolkov-natyazhnyx-i-podvesnyx-reechnyx.jpg" crc="4048262616" seo="true" ref="help"/>
+    <file name="oformlenie_potolka.jpg" crc="4030018725" seo="true" ref="help"/>
+    <file name="cert005.jpg" crc="3791500085" seo="true" ref="help"/>
+    <file name="cert001.jpg" crc="224368475" seo="true" ref="help"/>
+    <file name="cce00003.jpg" crc="294133583" seo="true" ref="help"/>
+    <file name="ustanovka-natyazhnyh-potolkov.jpg" crc="241448666" seo="true" ref="help"/>
+    <file name="zelenye2.jpg" crc="4047668764" seo="true" ref="help"/>
+    <file name="podvesnye-potolki-v-spalne_10.jpg" crc="132246466" seo="true" ref="help"/>
+    <file name="saros-21.jpg" crc="171377940" seo="true" ref="help"/>
+    <file name="11-1024x767.jpg" crc="72644357" seo="true" ref="help"/>
+    <file name="neot001.jpg" crc="13125514" seo="true" ref="help"/>
+    <file name="svoimi-rukami1.jpg" crc="3960671450" seo="true" ref="help"/>
+    <file name="natyazhnye-potolki-v-detskuyu(11).jpg" crc="4135385960" seo="true" ref="help"/>
+    <file name="bedroom-with-floating-chair3.jpg" crc="512949283" seo="true" ref="help"/>
+    <file name="11-u14655.png" crc="3962430483" ref="help"/>
+    <file name="obhod-2-u14665.png" crc="61363242" ref="help"/>
+    <file name="u14749-17.png" crc="3909397988" ref="help"/>
+    <file name="u14749-17-r.png" crc="378695" ref="help"/>
+    <file name="u14749-17-m.png" crc="378695" ref="help"/>
+    <file name="u14749-17-fs.png" crc="3909397988" ref="help"/>
+    <file name="отзывы клиентов1.jpg" crc="419373823" seo="true" ref="reviews"/>
+    <file name="1-crop-u13092.jpg" crc="4241486666" ref="mnogourovnevye-natjazhnye-potolki"/>
+    <file name="2-crop-u13105.jpg" crc="504970611" ref="mnogourovnevye-natjazhnye-potolki"/>
+    <file name="3-crop-u13121.jpg" crc="4181390568" ref="mnogourovnevye-natjazhnye-potolki"/>
+    <file name="4-crop-u13149.jpg" crc="4132941567" ref="mnogourovnevye-natjazhnye-potolki"/>
+    <file name="5-crop-u13180.jpg" crc="389319616" ref="mnogourovnevye-natjazhnye-potolki"/>
+    <file name="6-crop-u13205.jpg" crc="4232701774" ref="mnogourovnevye-natjazhnye-potolki"/>
+    <file name="7-crop-u13221.jpg" crc="96391793" ref="mnogourovnevye-natjazhnye-potolki"/>
+    <file name="8-crop-u13237.jpg" crc="509160707" ref="mnogourovnevye-natjazhnye-potolki"/>
+    <file name="9-crop-u13262.jpg" crc="3809232899" ref="mnogourovnevye-natjazhnye-potolki"/>
+    <file name="10-crop-u13275.jpg" crc="3975204742" ref="mnogourovnevye-natjazhnye-potolki"/>
+    <file name="11-crop-u13302.jpg" crc="3772728304" ref="mnogourovnevye-natjazhnye-potolki"/>
+    <file name="12-crop-u13318.jpg" crc="291224304" ref="mnogourovnevye-natjazhnye-potolki"/>
+    <file name="13-crop-u13343.jpg" crc="3853828129" ref="mnogourovnevye-natjazhnye-potolki"/>
+    <file name="14-crop-u13351.jpg" crc="213220136" ref="mnogourovnevye-natjazhnye-potolki"/>
+    <file name="15-crop-u13358.jpg" crc="3966410391" ref="mnogourovnevye-natjazhnye-potolki"/>
+    <file name="16-crop-u13365.jpg" crc="3800770385" ref="mnogourovnevye-natjazhnye-potolki"/>
+    <file name="17-crop-u13372.jpg" crc="3807219582" ref="mnogourovnevye-natjazhnye-potolki"/>
+    <file name="202-crop-u11186.jpg" crc="502417360" ref="фотопечать"/>
+    <file name="203-crop-u11202.jpg" crc="317351430" ref="фотопечать"/>
+    <file name="204-crop-u11215.jpg" crc="262601723" ref="фотопечать"/>
+    <file name="205-crop-u11228.jpg" crc="3872774530" ref="фотопечать"/>
+    <file name="206-crop-u11247.jpg" crc="4217174732" ref="фотопечать"/>
+    <file name="207-crop-u11260.jpg" crc="3875039927" ref="фотопечать"/>
+    <file name="208-crop-u11286.jpg" crc="4052765195" ref="фотопечать"/>
+    <file name="209-crop-u11302.jpg" crc="4064834587" ref="фотопечать"/>
+    <file name="210-crop-u11315.jpg" crc="238679450" ref="фотопечать"/>
+    <file name="211-crop-u11328.jpg" crc="4078669482" ref="фотопечать"/>
+    <file name="212-crop-u11338.jpg" crc="3907650908" ref="фотопечать"/>
+    <file name="213-crop-u11351.jpg" crc="451044533" ref="фотопечать"/>
+    <file name="214-crop-u11364.jpg" crc="3915424179" ref="фотопечать"/>
+    <file name="215-crop-u11377.jpg" crc="397415393" ref="фотопечать"/>
+    <file name="216-crop-u11387.jpg" crc="4057854685" ref="фотопечать"/>
+    <file name="217-crop-u11400.jpg" crc="4099318174" ref="фотопечать"/>
+    <file name="218-crop-u11413.jpg" crc="342562154" ref="фотопечать"/>
+    <file name="219-crop-u11423.jpg" crc="483115043" ref="фотопечать"/>
+    <file name="220-crop-u11433.jpg" crc="3765312621" ref="фотопечать"/>
+    <file name="221-crop-u11746.jpg" crc="3978136350" ref="фотопечать"/>
+    <file name="222.jpg" crc="4182736184" seo="true" ref="фотопечать"/>
+    <file name="223-crop-u11766.jpg" crc="4106138592" ref="фотопечать"/>
+    <file name="224-crop-u11782.jpg" crc="4000576678" ref="фотопечать"/>
+    <file name="225-crop-u11792.jpg" crc="3821454278" ref="фотопечать"/>
+    <file name="226-crop-u11802.jpg" crc="493630045" ref="фотопечать"/>
+    <file name="227-crop-u11812.jpg" crc="357662518" ref="фотопечать"/>
+    <file name="перфорация.jpg" crc="465971812" seo="true" ref="reznye-natjazhnye-potolki"/>
+    <file name="перфорация2-u14327.png" crc="3936903679" ref="reznye-natjazhnye-potolki"/>
+    <file name="перфорация3-u14343.png" crc="4203684152" ref="reznye-natjazhnye-potolki"/>
+    <file name="перфорация4.jpg" crc="47920180" seo="true" ref="reznye-natjazhnye-potolki"/>
+    <file name="перфорация6.jpg" crc="3792657952" seo="true" ref="reznye-natjazhnye-potolki"/>
+    <file name="перфорация7.jpg" crc="3969810191" seo="true" ref="reznye-natjazhnye-potolki"/>
+    <file name="перфорация8.jpg" crc="79686706" seo="true" ref="reznye-natjazhnye-potolki"/>
+    <file name="foto-1-belyj-gljancevyj-natjazhnoj-potolok-prekrasno-dopolnjaet-modernovyj-interer-gostinoj-562x700.jpg" crc="345757660" ref="cvetnye-polotna"/>
+    <file name="foto-2-belyj-matovyj-mnogourovnevyj-natjazhnoj-potolok-na-kuhne-crop-u13534.jpg" crc="4202948500" ref="cvetnye-polotna"/>
+    <file name="foto-3-belyj-matovyj-natjazhnoj-potolok-s-podsvetkoj-v-spalne-crop-u13547.jpg" crc="4227415807" ref="cvetnye-polotna"/>
+    <file name="foto-5-belyj-matovyj-natjazhnoj-potolok-so-vstroennym-osveshheniem-v-vannoj-crop-u13570.jpg" crc="9589123" ref="cvetnye-polotna"/>
+    <file name="risunok-1-bogataja-cvetovaja-gamma-lakovyh-natjazhnyh-potolkov.jpg" crc="160163860" seo="true" ref="cvetnye-polotna"/>
+    <file name="risunok-2-cvetovaja-gamma-satinovyh-natjazhnyh-potolkov.jpg" crc="2446320" seo="true" ref="cvetnye-polotna"/>
+    <file name="risunok-3-palitra-cvetov-matovye-natjazhnye-potolki.jpg" crc="4130874678" seo="true" ref="cvetnye-polotna"/>
+    <file name="risunok-4-perlamutrovye-natjazhnye-potolki.jpg" crc="180839668" seo="true" ref="cvetnye-polotna"/>
+    <file name="risunok-5-natjazhnye-potolki-‘metallik.jpg" crc="3781714768" seo="true" ref="cvetnye-polotna"/>
+    <file name="risunok-6-natjazhnye-potolki-s-imitaciej-mramora.jpg" crc="4210127910" seo="true" ref="cvetnye-polotna"/>
+    <file name="foto-10-natjazhnoj-potolok-dvuh-cvetov-shokoladnogo-cveta-i-cveta-kapuchino.jpg" crc="144011366" seo="true" ref="cvetnye-polotna"/>
+    <file name="foto-11-natjazhnoj-potolok-cherno-belyj-700x525.jpg" crc="530382073" seo="true" ref="cvetnye-polotna"/>
+    <file name="foto-12-dvuhcvetnymi-mogut-byt-i-rozovye-gatjazhnye-potolki.jpg" crc="3893599127" seo="true" ref="cvetnye-polotna"/>
+    <file name="foto-14-originalnyj-dvuhcvetnyj-natjazhnoj-potolok.jpg" crc="496776967" seo="true" ref="cvetnye-polotna"/>
+    <file name="foto-15-zelenyj-natjazhnoj-potolok.jpg" crc="360511545" seo="true" ref="cvetnye-polotna"/>
+    <file name="foto-16-korichnevyj-natjazhnoj-potolok.jpg" crc="378035230" seo="true" ref="cvetnye-polotna"/>
+    <file name="foto-17-chernyj-natjazhnoj-potolok.jpg" crc="179690436" seo="true" ref="cvetnye-polotna"/>
+    <file name="foto-20-hudozhestvennyj-natjazhnoj-potolok-s-podsvetkoj-495x700.jpg" crc="3761313822" seo="true" ref="cvetnye-polotna"/>
+    <file name="foto-21-hudozhestvennyj-natjazhnoj-potolok.jpg" crc="399999462" seo="true" ref="cvetnye-polotna"/>
+    <file name="foto-19-hudozhestvennyj-natjazhnoj-potolok-s-3-d-risunkom.jpg" crc="183257488" seo="true" ref="cvetnye-polotna"/>
+    <file name="мобильный офис3.jpg" crc="421608947" seo="true" ref="mobilnyj-ofis"/>
+    <file name="96204154.jpg" crc="215957933" seo="true" ref="mobilnyj-ofis"/>
+    <file name="b170befaf5a30840570076b640832026.jpg" crc="44207866" seo="true" ref="montazh-potolkov"/>
+    <file name="установи потолок1.jpg" crc="4212684930" seo="true" ref="montazh-potolkov"/>
+    <file name="разметка потолка1.jpg" crc="4104701091" seo="true" ref="montazh-potolkov"/>
+    <file name="монтаж профиля1.jpg" crc="488824221" seo="true" ref="montazh-potolkov"/>
+    <file name="установи потолок.jpg" crc="3818023319" seo="true" ref="montazh-potolkov"/>
+    <file name="монтаж вставки.jpg" crc="5729839" seo="true" ref="montazh-potolkov"/>
+    <file name="светильники.jpg" crc="234330360" seo="true" ref="montazh-potolkov"/>
+    <file name="cvetnye_natyazhnye_potolki_1.jpg" crc="373579598" seo="true" ref="montazh-potolkov"/>
+    <file name="transmission-shop-plainfield-il.jpg" crc="253294539" seo="true" ref="obsluzhivanie"/>
+  </folder>
+  <file name="index.html" crc="4096776016" seo="true" mt="1465761193288" redirect="true"/>
+  <file name="help.html" crc="4125009207" seo="true" mt="1465761107155" redirect="true"/>
+  <file name="reviews.html" crc="26213050" seo="true" mt="1465761107155" redirect="true"/>
+  <file name="contacts.html" crc="3961735806" seo="true" mt="1465761107155" redirect="true"/>
+  <file name="matovye-natjazhnye-potolki.html" crc="3770318478" seo="true" mt="1465761107155" redirect="true"/>
+  <file name="gljancevye-natjazhnye-potolki.html" crc="14114826" seo="true" mt="1465761107155" redirect="true"/>
+  <file name="satinovye-natjazhnye-potolki.html" crc="3766528646" seo="true" mt="1465761107155" redirect="true"/>
+  <file name="tkanevye-natjazhnye-potolki.html" crc="3770853964" seo="true" mt="1465761107155" redirect="true"/>
+  <file name="akcii.html" crc="211980642" seo="true" mt="1465761107155" redirect="true"/>
+  <file name="mnogourovnevye-natjazhnye-potolki.html" crc="4162370676" seo="true" mt="1465761107155" redirect="true"/>
+  <file name="фотопечать.html" crc="3764602886" seo="true" mt="1465761107155" redirect="true"/>
+  <file name="reznye-natjazhnye-potolki.html" crc="510019467" seo="true" mt="1465761107155" redirect="true"/>
+  <file name="cvetnye-polotna.html" crc="3790739977" seo="true" mt="1465761107155" redirect="true"/>
+  <file name="mobilnyj-ofis.html" crc="262166862" seo="true" mt="1465761107155" redirect="true"/>
+  <file name="montazh-potolkov.html" crc="4132107495" seo="true" mt="1465761107155" redirect="true"/>
+  <file name="obsluzhivanie.html" crc="4187048019" seo="true" mt="1465761107155" redirect="true"/>
+  <site/>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Натяжные потолки" filename="index.html" muse_href="page:U93" master="U72">
+        <breakpoint uid="U83" maxwidth="1200" minwidth="0" squishy="true"/>
+      </page>
+      <masterPage name="Main " master="U62" uid="U72">
+        <breakpoint uid="U73" maxwidth="1200" minwidth="0" squishy="true"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U62">
+        <breakpoint uid="U63" maxwidth="1200" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="Матовые" filename="matovye-natjazhnye-potolki.html" muse_href="page:U7149" master="U7897">
+        <breakpoint uid="U7115" maxwidth="1200" minwidth="0" squishy="true"/>
+        <anchor name="Mate1" html_id="mate1" muse_href="anchor:U7114:U12765" includeInBPs="U7115"/>
+        <anchor name="Mate2" html_id="mate2" muse_href="anchor:U7114:U12768" includeInBPs="U7115"/>
+        <anchor name="Mate3" html_id="mate3" muse_href="anchor:U7114:U12774" includeInBPs="U7115"/>
+        <anchor name="Mate4" html_id="mate4" muse_href="anchor:U7114:U12777" includeInBPs="U7115"/>
+      </page>
+      <masterPage name="Catalog" master="U72" uid="U7897">
+        <breakpoint uid="U7898" maxwidth="1200" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="Глянцевые" filename="gljancevye-natjazhnye-potolki.html" muse_href="page:U7221" master="U7897">
+        <breakpoint uid="U7187" maxwidth="1200" minwidth="0" squishy="true"/>
+        <anchor name="Gloss1" html_id="gloss1" muse_href="anchor:U7186:U12780" includeInBPs="U7187"/>
+        <anchor name="Gloss1.1" html_id="gloss1.1" muse_href="anchor:U7186:U12783" includeInBPs="U7187"/>
+        <anchor name="Gloss1.2" html_id="gloss1.2" muse_href="anchor:U7186:U12786" includeInBPs="U7187"/>
+        <anchor name="Gloss2" html_id="gloss2" muse_href="anchor:U7186:U12789" includeInBPs="U7187"/>
+        <anchor name="Gloss3" html_id="gloss3" muse_href="anchor:U7186:U12792" includeInBPs="U7187"/>
+        <anchor name="Gloss4" html_id="gloss4" muse_href="anchor:U7186:U12795" includeInBPs="U7187"/>
+        <anchor name="Gloss4.1" html_id="gloss4.1" muse_href="anchor:U7186:U12798" includeInBPs="U7187"/>
+        <anchor name="Gloss4.2" html_id="gloss4.2" muse_href="anchor:U7186:U12801" includeInBPs="U7187"/>
+        <anchor name="Gloss4.3" html_id="gloss4.3" muse_href="anchor:U7186:U12804" includeInBPs="U7187"/>
+        <anchor name="Gloss5" html_id="gloss5" muse_href="anchor:U7186:U12807" includeInBPs="U7187"/>
+      </page>
+      <page name="Сатиновые" filename="satinovye-natjazhnye-potolki.html" muse_href="page:U7257" master="U7897">
+        <breakpoint uid="U7223" maxwidth="1200" minwidth="0" squishy="true"/>
+        <anchor name="Sateen1" html_id="sateen1" muse_href="anchor:U7222:U12723" includeInBPs="U7223"/>
+        <anchor name="Sateen2" html_id="sateen2" muse_href="anchor:U7222:U12726" includeInBPs="U7223"/>
+        <anchor name="Sateen3" html_id="sateen3" muse_href="anchor:U7222:U12729" includeInBPs="U7223"/>
+        <anchor name="Sateen4" html_id="sateen4" muse_href="anchor:U7222:U12732" includeInBPs="U7223"/>
+        <anchor name="Sateen5" html_id="sateen5" muse_href="anchor:U7222:U12735" includeInBPs="U7223"/>
+      </page>
+      <page name="Тканевые" filename="tkanevye-natjazhnye-potolki.html" muse_href="page:U7293" master="U7897">
+        <breakpoint uid="U7259" maxwidth="1200" minwidth="0" squishy="true"/>
+        <anchor name="Textile1" html_id="textile1" muse_href="anchor:U7258:U12867" includeInBPs="U7259"/>
+        <anchor name="Textile2" html_id="textile2" muse_href="anchor:U7258:U13053" includeInBPs="U7259"/>
+        <anchor name="Textile3" html_id="textile3" muse_href="anchor:U7258:U13056" includeInBPs="U7259"/>
+        <anchor name="Textile4" html_id="textile4" muse_href="anchor:U7258:U13059" includeInBPs="U7259"/>
+        <anchor name="top" html_id="top" muse_href="anchor:U7258:U13071" includeInBPs="U7259"/>
+      </page>
+      <page name="Акции" filename="akcii.html" muse_href="page:U8109" master="U72">
+        <breakpoint uid="U8069" maxwidth="1200" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Вопросы и ответы" filename="help.html" muse_href="page:U8193" master="U72">
+        <breakpoint uid="U8153" maxwidth="1200" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Отзывы" filename="reviews.html" muse_href="page:U8235" master="U72">
+        <breakpoint uid="U8195" maxwidth="1200" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Контакты" filename="contacts.html" muse_href="page:U8277" master="U72">
+        <breakpoint uid="U8237" maxwidth="1200" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Многоуровневые" filename="mnogourovnevye-natjazhnye-potolki.html" muse_href="page:U10366" master="U7897">
+        <breakpoint uid="U10320" maxwidth="1200" minwidth="0" squishy="true"/>
+        <anchor name="Many1" html_id="many1" muse_href="anchor:U10319:U13134" includeInBPs="U10320"/>
+        <anchor name="Many2" html_id="many2" muse_href="anchor:U10319:U13143" includeInBPs="U10320"/>
+        <anchor name="Many3" html_id="many3" muse_href="anchor:U10319:U13253" includeInBPs="U10320"/>
+        <anchor name="Many4" html_id="many4" muse_href="anchor:U10319:U13256" includeInBPs="U10320"/>
+        <anchor name="Many5" html_id="many5" muse_href="anchor:U10319:U13296" includeInBPs="U10320"/>
+        <anchor name="Many6" html_id="many6" muse_href="anchor:U10319:U13337" includeInBPs="U10320"/>
+      </page>
+      <page name="Фотопечать" filename="фотопечать.html" muse_href="page:U11149" master="U7897">
+        <breakpoint uid="U11103" maxwidth="1200" minwidth="0" squishy="true"/>
+        <anchor name="Photo1" html_id="photo1" muse_href="anchor:U11102:U12753" includeInBPs="U11103"/>
+        <anchor name="Photo2" html_id="photo2" muse_href="anchor:U11102:U12756" includeInBPs="U11103"/>
+        <anchor name="Photo3" html_id="photo3" muse_href="anchor:U11102:U12759" includeInBPs="U11103"/>
+        <anchor name="Photo4" html_id="photo4" muse_href="anchor:U11102:U12762" includeInBPs="U11103"/>
+      </page>
+      <page name="Резные натяжные потолки" filename="reznye-natjazhnye-potolki.html" muse_href="page:U13443" master="U7897">
+        <breakpoint uid="U13397" maxwidth="1200" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Цветные полотна" filename="cvetnye-polotna.html" muse_href="page:U13494" master="U7897">
+        <breakpoint uid="U13448" maxwidth="1200" minwidth="0" squishy="true"/>
+        <anchor name="Color1" html_id="color1" muse_href="anchor:U13447:U13592" includeInBPs="U13448"/>
+        <anchor name="Color2" html_id="color2" muse_href="anchor:U13447:U13595" includeInBPs="U13448"/>
+        <anchor name="Color3" html_id="color3" muse_href="anchor:U13447:U13604" includeInBPs="U13448"/>
+        <anchor name="Color4" html_id="color4" muse_href="anchor:U13447:U13710" includeInBPs="U13448"/>
+        <anchor name="Color5" html_id="color5" muse_href="anchor:U13447:U13778" includeInBPs="U13448"/>
+      </page>
+      <page name="Мобильный офис" filename="mobilnyj-ofis.html" muse_href="page:U14947" master="U15051">
+        <breakpoint uid="U14901" maxwidth="1200" minwidth="0" squishy="true"/>
+        <anchor name="Call" html_id="call" muse_href="anchor:U14900:U15317" includeInBPs="U14901"/>
+      </page>
+      <masterPage name="Услуги" master="U72" uid="U15051">
+        <breakpoint uid="U15052" maxwidth="1200" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="Монтаж потолков" filename="montazh-potolkov.html" muse_href="page:U14996" master="U15051">
+        <breakpoint uid="U14950" maxwidth="1200" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Обслуживание" filename="obsluzhivanie.html" muse_href="page:U15045" master="U15051">
+        <breakpoint uid="U14999" maxwidth="1200" minwidth="0" squishy="true"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>
