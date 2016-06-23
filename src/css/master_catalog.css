@@ -10,6 +10,51 @@
 	background-color: #6B9F00;
 }
 
+.catalog_menubar
+{
+	width: 200px;
+	height: 40px;
+	margin-top: 2px;
+	background-color: #6B9F06;
+	color: white;
+}
+
+h3
+{
+	font-family: Georgia, serif;
+	font-size: 18px;
+	text-align: center;
+	padding-top: 12px;
+	font-weight: 500;
+}
+
+A:link
+{
+	text-decoration: none;
+}
+
+.menubar_choose_off
+{
+	width: 20px;
+	height: 100%;
+	background-color: #4F4F4F;
+	float: left;
+}
+
+.menubar_choose_on
+{
+	width: 20px;
+	height: 100%;
+	background-color: #EE0000;
+	float: left;
+}
+
+.catalog_menubar:hover
+{
+	background-color: white;
+	color: #6B9F06;
+}
+
 #u11455:hover
 {
 	background-color: #FFFFFF;

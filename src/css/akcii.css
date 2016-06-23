@@ -24,6 +24,43 @@
 	width: 100%;
 }
 
+#head_text
+{
+	margin-top: 100px;
+}
+
+h1
+{
+	font-size: 30px;
+	color: black;
+	font-family: Open-sans, sans-serif;
+	font-weight: bold;
+}
+
+h2
+{
+	font-size: 30px;
+	color: black;
+	font-family: Open-sans, sans-serif;
+	font-weight: bold;
+	margin-left: 100px;
+	margin-top: 50px;
+}
+
+.actions_image
+{
+	z-index: 100;
+	width: 100%;
+	margin-top: 30px;
+	-webkit-filter: brightness(65%);
+}
+.actions_image:hover
+{
+	-webkit-filter: brightness(100%);
+	z-index: 200;
+	opacity: 50;
+}
+
 #u2269
 {
 	z-index: 13;
