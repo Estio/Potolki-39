@@ -45,32 +45,6 @@
 	left: 14.33%;
 }
 
-#pamphletu5422
-{
-	z-index: 93;
-	width: 0.01px;
-	height: 36px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 88px;
-	left: 680px;
-}
-
-#u5423
-{
-	z-index: 94;
-	width: 208px;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u5424
-{
-	position: absolute;
-	width: 208px;
-	height: 36px;
-}
-
 #u5433
 {
 	position: absolute;
@@ -293,40 +267,6 @@
 	position: relative;
 	width: 89.62%;
 	margin-left: 10.39%;
-}
-
-#pamphletu4886
-{
-	z-index: 39;
-	width: 0.01px;
-	height: 36px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 88px;
-	left: 892px;
-}
-
-#u4920
-{
-	z-index: 40;
-	width: 208px;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u4921
-{
-	position: absolute;
-	width: 208px;
-	height: 36px;
-}
-
-#u5424:hover,#u4921:hover
-{
-	width: 208px;
-	height: 36px;
-	min-height: 0px;
-	margin: 0px;
 }
 
 #u4895
