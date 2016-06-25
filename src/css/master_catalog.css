@@ -5,9 +5,84 @@
 	background-color: transparent;
 }
 
+h6
+{
+	padding-top: 50px;
+	width: 900px;
+	color: #737373;
+	font-family: Open-sans, sans-serif;
+	font-size: 18px;
+	line-height: 25px;
+	font-weight: 400;
+	text-align: justify;
+}
+
+h1
+{
+	padding-top: 30px;
+	max-width: 900px;
+	color: black;
+	font-family: Open-sans, sans-serif;
+	font-size: 36px;
+	line-height: 50px;
+	font-weight: 600;
+	text-align: left;
+	padding-bottom: 20px;
+	border-bottom: solid 1px #d1d1d1;
+}
+
+h2
+{
+	padding-top: 50px;
+	max-width: 800px;
+	color: black;
+	font-family: Open-sans, sans-serif;
+	font-size: 36px;
+	line-height: 50px;
+	font-weight: 600;
+	text-align: left;
+}
+
+ol
+{
+	padding-top: 20px;
+	padding-left: 50px;
+	max-width: 800px;
+	color: #737373;
+	font-family: Open-sans, sans-serif;
+	font-size: 18px;
+	line-height: 50px;
+	font-weight: 400;
+	text-align: left;
+
+}
+
+.catalog_image
+{
+	margin-top: 20px;
+	width: 800px;
+	margin-left: 50px;
+}
+
+.catalog_body_text
+{
+	border-right: dotted 1px #d1d1d1;
+	max-width: 950px;
+}
+#pre_text
+{
+	width:950px;
+	height: 100px;
+}
+
 #u11455
 {
 	background-color: #6B9F00;
+}
+
+.catalog_menu
+{
+	float: right;
 }
 
 .catalog_menubar

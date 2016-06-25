@@ -675,7 +675,7 @@ textarea {
 
 p, h1, h2, h3, h4, h5, h6, ol, ul, span.actAsPara /* disable Android font boosting */
 {
-    max-height: 1000000px;
+    max-height: 1200px;
 }
 
 .superscript {
