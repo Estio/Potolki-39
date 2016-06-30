@@ -23,6 +23,50 @@ body, div, dl, dt, dd, ul, ol, li, nav, h1, h2, h3, h4, h5, h6, pre, code, form,
     transition-property: background-image, background-position, background-color, border-color, border-radius, color, font-size, font-style, font-weight, letter-spacing, line-height, text-align, box-shadow, text-shadow, opacity;
 }
 
+ul.dropdown li {
+    position: relative;
+}
+
+ul.dropdown, ul.dropdown-inside {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul.dropdown-inside {
+    position: absolute;
+    left: -9999px;
+}
+
+ul.dropdown li.topmenu{
+    display: inline;
+    float: left;
+    margin: 0 1px 0 0;
+}
+
+ul.dropdown li.topmenu a{
+    padding: 3px 10px 4px;
+    display: block;
+}
+
+ul.dropdown a.topmenu {
+    background: #efefef;
+}
+
+ul.dropdown a.topmenu:hover {
+padding: 2px 10px 5px;
+}
+
+ul.dropdown li.topmenu:hover .dropdown-inside{
+    display: block;
+    left: 0;
+}
+
+ul.dropdown .dropdown-inside{
+    background: #fff;
+}
+ul.dropdown .dropdown-inside a:hover{
+    background: #efefef;
+}
 .transition * {
     -webkit-transition: inherit;
     transition: inherit;
@@ -84,33 +128,28 @@ body {
     font-feature-settings: 'liga';
 }
 
-.header
-{
+.header {
     width: 100%;
     height: 160px;
 }
 
-.header_text
-{
+.header_text {
     width: 500px;
     height: 90px;
     float: right;
 }
 
-#header_left
-{
+#header_left {
     float: left;
     width: 380px;
 }
 
-#header_logo
-{
+#header_logo {
     width: 377px;
     height: 132px;
 }
 
-#header_worktime
-{
+#header_worktime {
     font-family: Open-sans, sans-serif;
     color: #6E6E6E;
     font-weight: bold;
@@ -120,8 +159,7 @@ body {
     margin-bottom: 10px;
 }
 
-.header_contacts
-{
+.header_contacts {
     font-family: Courier New, Courier, monospace;
     font-size: 28px;
     font-weight: bold;
@@ -130,16 +168,14 @@ body {
     margin-top: 5px;
 }
 
-#header_contacts_tel
-{
+#header_contacts_tel {
     font-family: Open-sans, sans-serif;
     color: #6E6E6E;
     font-weight: bold;
     font-size: 16px;
 }
 
-#header_logo_text
-{
+#header_logo_text {
     font-family: Open-sans, sans-serif;
     font-weight: bold;
     font-size: 14px;
@@ -148,8 +184,7 @@ body {
     text-align: center;
 }
 
-#header_buttons
-{
+#header_buttons {
     width: 500px;
     height: 40px;
     float: right;
@@ -158,22 +193,18 @@ body {
 
 a:link {
     color: #0000FF;
-    text-decoration: underline;
 }
 
 a:visited {
     color: #800080;
-    text-decoration: underline;
 }
 
 a:hover {
     color: #0000FF;
-    text-decoration: underline;
 }
 
 a:active {
     color: #EE0000;
-    text-decoration: underline;
 }
 
 a.nontext /* used to override default properties of 'a' tag */
@@ -228,16 +259,15 @@ a.nontext /* used to override default properties of 'a' tag */
     color: #7F7F7F;
     text-decoration: none;
 }
-#pu2266-4
-{
+
+#pu2266-4 {
     margin-right: -10000px;
     margin-top: 42px;
     width: 38.5%;
     margin-left: 57.34%;
 }
 
-.header-worktime
-{
+.header-worktime {
     margin-left: 195px;
     z-index: 123;
     min-height: 20px;
@@ -247,8 +277,7 @@ a.nontext /* used to override default properties of 'a' tag */
     font: bold 14px sans-serif;
 }
 
-.header-contacts
-{
+.header-contacts {
     float: right;
     z-index: 127;
     min-height: 37px;
@@ -258,27 +287,24 @@ a.nontext /* used to override default properties of 'a' tag */
     font: bold 18px sans-serif;
     color: #c0271b;
 }
-#header-contacts-tel
-{
+
+#header-contacts-tel {
     font: bold 16px sans-serif;
     color: #6E6E6E;
 }
 
-#u5423
-{
+#u5423 {
     z-index: 205;
     width: 208px;
     margin-left: 30px;
 }
 
-#u5424
-{
+#u5424 {
     width: 208px;
     height: 36px;
 }
 
-#pamphletu5422
-{
+#pamphletu5422 {
     z-index: 204;
     width: 0.01px;
     height: 36px;
@@ -286,31 +312,27 @@ a.nontext /* used to override default properties of 'a' tag */
 
 }
 
-#u4920
-{
+#u4920 {
     z-index: 31;
     width: 208px;
     position: relative;
     margin: 0px 0px 0px 250px;
 }
 
-#u4921
-{
+#u4921 {
     position: absolute;
     width: 208px;
     height: 36px;
 }
 
-#u5424_s:hover,#u4921:hover
-{
+#u5424_s:hover, #u4921:hover {
     width: 208px;
     height: 36px;
     min-height: 0px;
     margin: 0px;
 }
 
-#pamphletu4886
-{
+#pamphletu4886 {
     z-index: 150;
     width: 0.01px;
     height: 36px;

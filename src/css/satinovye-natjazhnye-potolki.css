@@ -1357,11 +1357,11 @@
 
 #accordionu7584wrapper
 {
-	min-height: 361px;
 	z-index: 510;
 	margin-right: -10000px;
 	margin-top: 1px;
-	margin-left: 19.17%;
+	margin-left: 230px;
+	position: absolute;
 }
 
 #accordionu7584
@@ -1412,7 +1412,7 @@
 	z-index: 516;
 	width: 140px;
 	padding-bottom: 0px;
-	position: relative;
+	position: absolute;
 }
 
 #u7590-4
@@ -1588,11 +1588,12 @@
 
 #accordionu15321wrapper
 {
-	min-height: 166px;
+	min-height: 1px;
 	z-index: 551;
 	margin-right: -10000px;
 	margin-top: 1px;
-	margin-left: 30.84%;
+	margin-left: 370px;
+	position: absolute;
 }
 
 #accordionu15321

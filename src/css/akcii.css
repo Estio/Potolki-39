@@ -719,11 +719,11 @@ h2
 
 #accordionu7584wrapper
 {
-	min-height: 361px;
 	z-index: 231;
 	margin-right: -10000px;
 	margin-top: 1px;
-	margin-left: 19.17%;
+	margin-left: 230px;
+	position: absolute;
 }
 
 #accordionu7584
@@ -950,11 +950,11 @@ h2
 
 #accordionu15321wrapper
 {
-	min-height: 166px;
 	z-index: 272;
 	margin-right: -10000px;
 	margin-top: 1px;
-	margin-left: 30.84%;
+	margin-left: 370px;
+	position: absolute;
 }
 
 #accordionu15321
